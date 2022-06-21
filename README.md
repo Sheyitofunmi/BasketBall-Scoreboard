@@ -1,3 +1,9 @@
+I built this project from scracth.
+It a basketball score board with an header, score-point, and score bottons for home and guest players.
+I used HTML,CSS and JAVASDCRIPT to buld this project.
+
+
+
 # title(){return this.options.title||this.options.name}
 
 ## Supporting Scrimba
