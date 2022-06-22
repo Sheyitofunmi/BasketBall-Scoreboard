@@ -58,6 +58,8 @@ function add3PlusGuest() {
 let restartGameEl = document.getElementById("restart-game")
 // console.log(restartGameEl)
 function restartGame() {
+  homeScore = 0;
+  guestScore = 0;
   homeScoreEl.textContent = 0;
   guestScoreEl.textContent = 0;
 }
